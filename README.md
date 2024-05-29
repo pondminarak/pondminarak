@@ -1,5 +1,5 @@
 ## Hi there Welcome to Github ME 
-My name is SATTHAPORN PUNBOONG <br>
+<h3>My name is SATTHAPORN PUNBOONG </h3> <br>
 <hr>
 Prince of Songkla University <br>
 <hr>
